@@ -26,6 +26,6 @@ en = "Styles and Shadows toolbars"
 pt = "Barras de estilos e sombras"
 
 [summary]
-es = "Dos barras inspiradas en SketchUp: la de estilos replica el menú Cámara ▸ Estilo con 13 botones, y la de sombras añade un interruptor y deslizadores de fecha, hora e intensidad."
-en = "Two SketchUp-inspired toolbars: the Styles one mirrors the Camera ▸ Style menu with 13 buttons, and the Shadows one adds a toggle plus date, time and intensity sliders."
-pt = "Duas barras inspiradas no SketchUp: a de estilos espelha o menu Câmera ▸ Estilo com 13 botões, e a de sombras traz um botão e sliders de data, hora e intensidade."
+es = "Dos barras: la de estilos replica el menú Cámara ▸ Estilo con 13 botones, y la de sombras añade un interruptor y deslizadores de fecha, hora e intensidad."
+en = "Two toolbars: the Styles one mirrors the Camera ▸ Style menu with 13 buttons, and the Shadows one adds a toggle plus date, time and intensity sliders."
+pt = "Duas barras: a de estilos espelha o menu Câmera ▸ Estilo com 13 botões, e a de sombras traz um botão e sliders de data, hora e intensidade."
