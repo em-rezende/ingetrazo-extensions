@@ -1,6 +1,6 @@
 {
  "format": 1,
- "generated": "2026-10-08T22:33Z",
+ "generated": "2026-10-09T18:21Z",
  "tags": [
   "analysis",
   "architecture",
@@ -806,8 +806,8 @@
    "author_url": "https://github.com/lelopes05",
    "license": "GPL-3.0-or-later",
    "repository": "https://github.com/lelopes05/opentrace-bim",
-   "download": "https://github.com/lelopes05/opentrace-bim/releases/download/v0.12.9/OpenTrace_BIM_0.12.9_UPDATE_LEGACY_0111.zip",
-   "sha256": "237de58608fc1c3da51aff86f28dcc8f4deb2d041e2a603e51ff6377906e2a62",
+   "download": "https://github.com/lelopes05/opentrace-bim/releases/download/v0.12.9/OpenTrace_BIM_0.12.9_CATALOG.zip",
+   "sha256": "5a9a3c67d0653efb912eef0cdd6309bb8ccbc8daa655a1c75e58a01349956607",
    "ingetrazo": "0.5.7",
    "tags": [
     "architecture",
